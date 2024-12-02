@@ -1,2 +1,2 @@
-# Python-Codes
+# Python
 This is my Python Project page.
